@@ -1,0 +1,5 @@
+{
+  "name": "Flavorly: AI Recipe & Meal Planner",
+  "description": "An AI-powered recipe and meal planning app. Users can manage their pantry, find recipes based on available ingredients, save favorites, plan weekly meals, and generate a shopping list.",
+  "requestFramePermissions": []
+}
